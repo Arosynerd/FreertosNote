@@ -1,0 +1,15 @@
+006templateforzet6\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+006templateforzet6\timers.o: D:\KeilSTM32\ARM\ARMCC\Bin\..\include\stdlib.h
+006templateforzet6\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+006templateforzet6\timers.o: D:\KeilSTM32\ARM\ARMCC\Bin\..\include\stddef.h
+006templateforzet6\timers.o: D:\KeilSTM32\ARM\ARMCC\Bin\..\include\stdint.h
+006templateforzet6\timers.o: ../Core/Inc/FreeRTOSConfig.h
+006templateforzet6\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+006templateforzet6\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+006templateforzet6\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+006templateforzet6\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+006templateforzet6\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+006templateforzet6\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+006templateforzet6\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+006templateforzet6\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+006templateforzet6\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
